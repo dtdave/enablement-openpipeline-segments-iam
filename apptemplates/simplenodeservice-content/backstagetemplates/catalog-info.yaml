@@ -19,7 +19,7 @@ metadata:
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://laughing-winner-v6p4p4v95j4xhp4p-ARGOCD_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://laughing-winner-v6p4p4v95j4xhp4p-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://mld63765.apps.dynatrace.com
